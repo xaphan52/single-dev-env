@@ -22,4 +22,4 @@ and if your request `http://localhost:8080` you'll see the following output:
 Hello from Docker!
 
 ```
-
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=bca8a9d266a004dff1d6&state=0ee3dbf5-3b45-4b75-9e2c-76faaa85d8be
